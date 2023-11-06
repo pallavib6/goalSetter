@@ -1,1 +1,1 @@
-# Goal Setter Backend Related Project
+# Goal Setter Backend Project
